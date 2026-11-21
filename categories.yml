@@ -1,0 +1,12 @@
+- id: live-chat-widgets
+  name: "Live Chat Widgets"
+- id: customer-messaging-platforms
+  name: "Customer Messaging Platforms"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: website-chatbots
+  name: "Website Chatbots"
+- id: social-and-whatsapp-inbox
+  name: "Social & WhatsApp Inbox"
+- id: co-browsing
+  name: "Co-Browsing"

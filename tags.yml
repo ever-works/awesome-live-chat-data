@@ -1,0 +1,36 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: customer-support
+  name: "Customer Support"
+- id: sales
+  name: "Sales"
+- id: freemium
+  name: "Freemium"
+- id: chatbot
+  name: "Chatbot"
+- id: free-plan
+  name: "Free Plan"
+- id: free
+  name: "Free"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: crm
+  name: "CRM"
+- id: e-commerce
+  name: "E-commerce"
+- id: whatsapp
+  name: "WhatsApp"
+- id: saas
+  name: "SaaS"
+- id: team-chat
+  name: "Team Chat"
+- id: co-browsing
+  name: "Co-Browsing"

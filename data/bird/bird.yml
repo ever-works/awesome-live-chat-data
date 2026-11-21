@@ -1,0 +1,12 @@
+name: "Bird"
+description: "Bird (formerly MessageBird) is a cloud communications platform offering WhatsApp, SMS, email, and voice APIs plus a customer inbox. It enables businesses to manage conversations across multiple messaging channels. Pricing is usage-based and aimed at enterprises."
+source_url: "https://www.bird.com/"
+category: "Social & WhatsApp Inbox"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "whatsapp"
+icon_url: "https://icons.duckduckgo.com/ip3/www.bird.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.bird.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

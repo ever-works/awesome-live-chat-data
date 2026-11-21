@@ -1,0 +1,12 @@
+name: "HubSpot Live Chat"
+description: "HubSpot Live Chat is a website chat widget integrated with HubSpot's CRM and marketing hub. It enables real-time conversations with visitors and automatic lead capture. A free version is available, with advanced features in paid hubs."
+source_url: "https://www.hubspot.com/"
+category: "Live Chat Widgets"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "crm"
+icon_url: "https://icons.duckduckgo.com/ip3/www.hubspot.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.hubspot.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

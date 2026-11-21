@@ -1,0 +1,12 @@
+name: "JivoChat"
+description: "JivoChat is a live chat and customer messaging tool for websites, supporting chat, phone, email, and social media in one app. It targets small and medium businesses with visitor tracking and CRM integrations. A free plan is available with paid tiers for advanced features."
+source_url: "https://www.jivochat.com/"
+category: "Live Chat Widgets"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "customer-support"
+icon_url: "https://icons.duckduckgo.com/ip3/www.jivochat.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.jivochat.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

@@ -1,0 +1,31 @@
+company_name: "Awesome Live Chat"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome Live Chat"
+initial_prompt: "A curated directory of live-chat widgets and customer-messaging platforms (Intercom alternatives). Include products such as Intercom, LiveChat, Tidio, Crisp, tawk.to, Olark, Zendesk Messaging, Chatwoot, Rocket.Chat, JivoChat, HubSpot Live Chat, Smartsupp, plus other notable commercial and open-source options. Categories: Live Chat Widgets, Customer Messaging Platforms, Open-Source & Self-Hosted, Website Chatbots, Social & WhatsApp Inbox, Co-Browsing. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-live-chat-website"
+company_website: "https://live-chat.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

@@ -1,0 +1,12 @@
+name: "Freshchat"
+description: "Freshchat is a modern messaging software by Freshworks for customer engagement across web, mobile, and social channels. It combines live chat with AI bots and ticketing for support teams. A free plan is offered, with paid tiers for growing businesses."
+source_url: "https://www.freshworks.com/freshchat"
+category: "Customer Messaging Platforms"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "ai-powered"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.freshworks.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.freshworks.com/freshchat>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

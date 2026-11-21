@@ -1,0 +1,12 @@
+name: "Olark"
+description: "Olark is a live chat widget for small businesses that provides real-time website chat, visitor insights, and automated chat rules. It integrates with help desks and CRM platforms. Olark offers a limited free plan and paid subscriptions."
+source_url: "https://www.olark.com/"
+category: "Live Chat Widgets"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "sales"
+icon_url: "https://icons.duckduckgo.com/ip3/www.olark.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.olark.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

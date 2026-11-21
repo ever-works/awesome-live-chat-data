@@ -1,0 +1,12 @@
+name: "Zendesk Messaging"
+description: "Zendesk Messaging is part of the Zendesk Suite, offering live chat and messaging across web, mobile, and social channels. It is designed for enterprise customer service teams needing ticketing and workflow automation. Pricing is tiered and aimed at businesses of various sizes."
+source_url: "https://www.zendesk.com/"
+category: "Customer Messaging Platforms"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "customer-support"
+icon_url: "https://icons.duckduckgo.com/ip3/www.zendesk.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.zendesk.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

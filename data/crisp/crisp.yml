@@ -1,0 +1,12 @@
+name: "Crisp"
+description: "Crisp is a customer messaging platform offering a live chat widget, shared inbox, and chatbot builder for startups and SMBs. It supports website chat, email, and social media messaging in one interface. Crisp provides a free tier and paid plans."
+source_url: "https://crisp.chat/"
+category: "Live Chat Widgets"
+tags:
+  - "freemium"
+  - "api"
+  - "free-plan"
+  - "customer-support"
+icon_url: "https://icons.duckduckgo.com/ip3/crisp.chat.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://crisp.chat/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

@@ -1,0 +1,12 @@
+name: "LiveChat"
+description: "LiveChat is a live chat widget for websites that enables real-time customer support and sales conversations. It includes ticketing, chat routing, and integrations with popular business tools. The service is offered as a paid subscription with a free trial."
+source_url: "https://www.livechat.com/"
+category: "Live Chat Widgets"
+tags:
+  - "paid"
+  - "api"
+  - "customer-support"
+  - "sales"
+icon_url: "https://icons.duckduckgo.com/ip3/www.livechat.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.livechat.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

@@ -1,0 +1,12 @@
+name: "Chatwoot"
+description: "Chatwoot is an open-source customer engagement suite that supports live chat, email, and social media messaging. It can be self-hosted or used as a managed cloud service. The platform includes multi-channel inbox and automation features."
+source_url: "https://www.chatwoot.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/www.chatwoot.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.chatwoot.com/>\n- Repository: <https://github.com/chatwoot/chatwoot>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 12:41"

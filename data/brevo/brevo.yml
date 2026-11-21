@@ -1,0 +1,12 @@
+name: "Brevo"
+description: "Brevo (formerly Sendinblue) is a marketing and customer messaging platform that includes live chat, email, SMS, and WhatsApp campaigns. It serves small and mid-sized businesses with a shared inbox for conversations. A free plan is available with paid upgrades."
+source_url: "https://www.brevo.com/"
+category: "Social & WhatsApp Inbox"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "whatsapp"
+icon_url: "https://icons.duckduckgo.com/ip3/www.brevo.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.brevo.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

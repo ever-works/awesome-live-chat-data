@@ -1,0 +1,12 @@
+name: "Mattermost"
+description: "Mattermost is an open-source, self-hosted collaboration platform for team messaging and workflow orchestration. It offers secure chat, file sharing, and integrations for technical and operational teams. A free self-hosted edition is available under an open-source license."
+source_url: "https://mattermost.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/mattermost.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://mattermost.com/>\n- Repository: <https://github.com/mattermost/mattermost-server>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 12:41"

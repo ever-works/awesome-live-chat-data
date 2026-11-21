@@ -1,0 +1,12 @@
+name: "Rocket.Chat"
+description: "Rocket.Chat is an open-source communication platform for team collaboration and customer engagement, with self-hosted and cloud options. It supports live chat widgets, omnichannel messaging, and extensive customization. The community edition is free under an open-source license."
+source_url: "https://rocket.chat/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/rocket.chat.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://rocket.chat/>\n- Repository: <https://github.com/RocketChat/Rocket.Chat>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 12:41"

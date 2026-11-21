@@ -1,0 +1,12 @@
+name: "Zulip"
+description: "Zulip is an open-source team chat platform with threaded conversations and self-hosting options. It supports real-time messaging, integrations, and searchable archives for organizations. Zulip Cloud is also available as a hosted service."
+source_url: "https://zulip.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "team-chat"
+icon_url: "https://icons.duckduckgo.com/ip3/zulip.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://zulip.com/>\n- Repository: <https://github.com/zulip/zulip>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 12:41"

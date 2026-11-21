@@ -1,0 +1,12 @@
+name: "Userlike"
+description: "Userlike is a live chat software for web and mobile messaging, supporting website chat and WhatsApp. It is geared toward German and European businesses with GDPR-compliant hosting. A free plan is available, with paid plans for teams."
+source_url: "https://www.userlike.com/"
+category: "Live Chat Widgets"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "whatsapp"
+icon_url: "https://icons.duckduckgo.com/ip3/www.userlike.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.userlike.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

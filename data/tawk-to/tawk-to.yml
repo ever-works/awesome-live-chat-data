@@ -1,0 +1,12 @@
+name: "tawk.to"
+description: "tawk.to is a completely free live chat application for websites, allowing agents to monitor and chat with visitors in real time. It includes ticketing, knowledge base, and agent monitoring without per-agent fees. Revenue comes from optional paid add-ons like video chat and removing branding."
+source_url: "https://www.tawk.to/"
+category: "Live Chat Widgets"
+tags:
+  - "free"
+  - "free-plan"
+  - "api"
+  - "customer-support"
+icon_url: "https://icons.duckduckgo.com/ip3/www.tawk.to.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.tawk.to/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"

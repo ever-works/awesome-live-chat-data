@@ -1,0 +1,12 @@
+name: "Front"
+description: "Front is a shared inbox platform that centralizes email, SMS, WhatsApp, and social media messages for teams. It enables collaboration on customer messages with internal comments and assignment workflows. Front is a paid service aimed at support and operations teams."
+source_url: "https://front.com/"
+category: "Social & WhatsApp Inbox"
+tags:
+  - "paid"
+  - "api"
+  - "enterprise"
+  - "whatsapp"
+icon_url: "https://icons.duckduckgo.com/ip3/front.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://front.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:41"
